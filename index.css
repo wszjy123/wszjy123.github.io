@@ -10,11 +10,11 @@
 }
 #div_one {
 	background-color: cornflowerblue;
-	height: 120px;
+	height: 130px;
 }
 #div_two {
 	background-color: cadetblue;
-	height: 120px;
+	height: 130px;
 }
 #div_three {
 	background-color: aqua;
@@ -34,13 +34,30 @@
 }
 #div_sevem {
 	background-color: darkgoldenrod;
-	height: 300px;
+	height: 340px;
 }
 #div_eight {
+	background-color: darkseagreen;
 	height: 85px;
 }
 #body_other {
 	background-color: darkturquoise;
+	height: 85px;
+}
+#body_nine {
+	background-color: crimson;
+	height: 85px;
+}
+#body_ten {
+	background-color: darksalmon;
+	height: 85px;
+}
+#body_twelve {
+	background-color: darkslateblue;
+	height: 130px;
+}
+#body_about {
+	background-color: powderblue;
 	height: 85px;
 }
 ul {
@@ -57,4 +74,7 @@ li {
 a {
 	color: blue;
 	text-decoration: none;
+}
+.body_one {
+	
 }
